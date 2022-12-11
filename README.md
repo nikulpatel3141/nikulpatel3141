@@ -36,4 +36,4 @@ Below are some languages/libraries/tools I've used in the past/am interested in:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikulpatel3141&layout=compact)](https://github.com/nikulpatel3141/github-readme-stats)
 
-
+![Profile views](https://gpvc.arturio.dev/nikulpatel3141)
