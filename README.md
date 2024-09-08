@@ -1,10 +1,8 @@
 <h1 align="left">
-  Hi 👋, I'm Nikul ·
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/nikul-patel-048a47113/" />
-
+  Nikul Patel
 </h1>
 
-[Here's](https://nikulpatel.dev) my blog
+[Here's](https://nikulpatel3141.github.io) my blog
 
 Below are some languages/libraries/tools I've used in the past/am interested in:
 
