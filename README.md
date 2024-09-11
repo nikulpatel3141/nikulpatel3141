@@ -31,7 +31,3 @@ Below are some languages/libraries/tools I've used in the past/am interested in:
   
   <img alt="Hugo" src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo" />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikulpatel3141&layout=compact)](https://github.com/nikulpatel3141/github-readme-stats)
-
-![Profile views](https://gpvc.arturio.dev/nikulpatel3141)
